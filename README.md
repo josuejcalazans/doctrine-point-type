@@ -1,9 +1,3 @@
-# Point Type
-Point Type to Doctrine2
-
-
-
-
 ### Versions:
 
 | Version  |  PHP Version |
@@ -17,7 +11,7 @@ Point Type to Doctrine2
 First, composer install:
 
 ```
-composer require josueeek/doctrine-point-type
+composer require vinyvicente/doctrine-point-type
 ```
 
 After, add in your bootstrap:

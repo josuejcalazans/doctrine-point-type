@@ -1,9 +1,10 @@
 {
     "name": "josueeek/doctrine-point-type",
+    "description": "Package Point for doctrine",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josue Calazans",
+            "name": "Josue",
             "email": "josue.calazans07@gmail.com"
         }
     ],
@@ -18,5 +19,6 @@
         "psr-4": {
             "Josue\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
