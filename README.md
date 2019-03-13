@@ -5,9 +5,8 @@ Point Type to Doctrine2
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vinyvicente/doctrine-point-type/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/vinyvicente/doctrine-point-type/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/vinyvicente/doctrine-point-type/v/stable)](https://packagist.org/packages/vinyvicente/doctrine-point-type)
 [![Total Downloads](https://poser.pugx.org/vinyvicente/doctrine-point-type/downloads)](https://packagist.org/packages/vinyvicente/doctrine-point-type)
-[![License](https://poser.pugx.org/vinyvicente/doctrine-point-type/license)](https://packagist.org/packages/vinyvicente/doctrine-point-type)
-[![composer.lock available](https://poser.pugx.org/vinyvicente/doctrine-point-type/composerlock)](https://packagist.org/packages/vinyvicente/doctrine-point-type)
-[![PHP 7.1*]
+[![License]]
+
 
 
 ### Versions:
