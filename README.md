@@ -11,7 +11,7 @@
 First, composer install:
 
 ```
-composer require vinyvicente/doctrine-point-type
+composer require josueeek/doctrine-point-type
 ```
 
 After, add in your bootstrap:
