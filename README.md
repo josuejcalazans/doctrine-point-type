@@ -22,7 +22,7 @@ use Doctrine\DBAL\Types\Type;
 
 $em = YourEntityManager();
 
-Type::addType('point', 'Viny\PointType');
+Type::addType('point', 'Josue\PointType');
 
 // in case silex :)
 $em->getConnection()->getDatabasePlatform()->registerDoctrineTypeMapping('point', 'point');
@@ -34,7 +34,7 @@ Or add it in your app/config yml files
 doctrine:
     dbal:
         types:
-            point: Viny\PointType
+            point: Josue\PointType
         default_connection: default
         connections:
             default:
